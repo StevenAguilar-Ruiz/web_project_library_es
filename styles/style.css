@@ -31,9 +31,10 @@
 .nav__links {
   display: flex;
   column-gap: 20px;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
   margin: 8px 0 0;
+  height: 30px;
 }
 
 .nav__link {
