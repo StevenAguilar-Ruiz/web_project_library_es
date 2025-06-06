@@ -357,7 +357,7 @@
 .footer__column_content_social {
   font-size: 13px;
   position: relative;
-  left: 1100px;
+  margin-left: 1100px;
 }
 .footer__logo {
   width: 58px;
